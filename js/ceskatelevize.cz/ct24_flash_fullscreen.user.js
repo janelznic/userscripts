@@ -1,14 +1,11 @@
 // ==UserScript==
 // @name			ČT24 Flash Fullscreen
-// @description		Flash Player without iframe for ČT24 Live
+// @description		Zvětší flash video embed object na velikost okna prohlížeče
 // @include			http://www.ceskatelevize.cz/ct24/zive-vysilani/*
 // @include			http://www.ceskatelevize.cz/ivysilani/embed/*
 // ==/UserScript==
 
 /**
- * CT24 Flash Player
- * Zvětší flash video embed object na velikost okna prohlížeče
- * 
  * AUTHOR Jan Elznic
  * WEBSITE http://www.janelznic.cz
  * COPYRIGHT Upravujte a šiřte dál jak se Vám zachce :-).
