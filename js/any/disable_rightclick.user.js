@@ -15,6 +15,4 @@
  * DATE 05-02-2013 14:27
  */
 
-window.onload = function() {
-	document.body.setAttribute("oncontextmenu", "return false;");
-}
+document.body.setAttribute("oncontextmenu", "return false;");
